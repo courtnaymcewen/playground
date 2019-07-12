@@ -1,0 +1,9 @@
+h1{
+    color: greenyellow;
+}
+
+img{
+    width: 200px;
+}
+
+/* <link rel='stylesheet' type='text/css' href="{{url_for('static', filename='images/stylesheet.css') }}> */
